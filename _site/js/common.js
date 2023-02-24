@@ -106,7 +106,7 @@ $(document).ready(function() {
         }, 50);
       }
 
-      $load_posts_button.text('Ещё ').append('<i class="ion ion-ios-arrow-down"></i>');
+      $load_posts_button.text('More ').append('<i class="ion ion-ios-arrow-down"></i>');
       pagination_next_page_number++;
 
       if (pagination_next_page_number > pagination_available_pages_number) {
