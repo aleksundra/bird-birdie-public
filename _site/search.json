@@ -1,6 +1,26 @@
 [
   
     {
+      "title"    : "Red Backed Shrike 4",
+      "category" : "",
+      "tags"     : "red-backed-shrike, israel, natanya, einshtein-park, and eat",
+      "url"      : "/shrikes/red-backed-shrike-4/",
+      "date"     : "Oct 2, 2023",
+      "image"    : "/images/2023/red-backed-shrike-4.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Willow Warbler 3",
+      "category" : "",
+      "tags"     : "willow-warbler, natanya, israel, and einshtein-park",
+      "url"      : "/sylviidae/willow-warbler-3/",
+      "date"     : "Oct 1, 2023",
+      "image"    : "/images/2023/willow-warbler-3.jpg"
+
+    } ,
+  
+    {
       "title"    : "House Sparrow 24",
       "category" : "",
       "tags"     : "house-sparrow, israel, natanya, natanya-center, and cry",
@@ -1071,10 +1091,10 @@
     } ,
   
     {
-      "title"    : "Mallard 26 copy",
+      "title"    : "Mallard 26",
       "category" : "",
       "tags"     : "mallard, israel, natanya, shlulit, and shadow",
-      "url"      : "/anatidae/mallard-26-copy/",
+      "url"      : "/anatidae/mallard-26/",
       "date"     : "Jan 18, 2023",
       "image"    : "/images/2023/mallard-26.jpg"
 
