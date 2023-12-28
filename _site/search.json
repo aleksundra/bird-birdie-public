@@ -1,6 +1,276 @@
 [
   
     {
+      "title"    : "Eurasian Hoopoe 6",
+      "category" : "",
+      "tags"     : "eurasian-hoopoe, israel, natanya, galey-yam, and portrait",
+      "url"      : "/hoopoes/eurasian-hoopoe-6/",
+      "date"     : "Dec 27, 2023",
+      "image"    : "/images/2023/eurasian-hoopoe-6.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Eurasian Hoopoe 5",
+      "category" : "",
+      "tags"     : "eurasian-hoopoe, israel, natanya, and galey-yam",
+      "url"      : "/hoopoes/eurasian-hoopoe-5/",
+      "date"     : "Dec 26, 2023",
+      "image"    : "/images/2023/eurasian-hoopoe-5.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Little Egret 6",
+      "category" : "",
+      "tags"     : "little-egret, israel, natanya, and galey-yam",
+      "url"      : "/herons/little-egret-6/",
+      "date"     : "Dec 25, 2023",
+      "image"    : "/images/2023/little-egret-6.jpg"
+
+    } ,
+  
+    {
+      "title"    : "European Stonechat 5",
+      "category" : "",
+      "tags"     : "european-stonechat, israel, natanya, and galey-yam",
+      "url"      : "/flycatchers/european-stonechat-5/",
+      "date"     : "Dec 24, 2023",
+      "image"    : "/images/2023/european-stonechat-5.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Spanish Sparrow 3",
+      "category" : "",
+      "tags"     : "spanish-sparrow, israel, natanya, and kiryat-hasharon",
+      "url"      : "/sparrows/spanish-sparrow-3/",
+      "date"     : "Dec 23, 2023",
+      "image"    : "/images/2023/spanish-sparrow-3.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Spanish Sparrow 2",
+      "category" : "",
+      "tags"     : "spanish-sparrow, israel, natanya, and kiryat-hasharon",
+      "url"      : "/sparrows/spanish-sparrow-2/",
+      "date"     : "Dec 22, 2023",
+      "image"    : "/images/2023/spanish-sparrow-2.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Spanish Sparrow 1",
+      "category" : "",
+      "tags"     : "spanish-sparrow, israel, natanya, and kiryat-hasharon",
+      "url"      : "/sparrows/spanish-sparrow-1/",
+      "date"     : "Dec 21, 2023",
+      "image"    : "/images/2023/spanish-sparrow-1.jpg"
+
+    } ,
+  
+    {
+      "title"    : "European Stonechat 4",
+      "category" : "",
+      "tags"     : "european-stonechat, israel, natanya, and kiryat-hasharon",
+      "url"      : "/flycatchers/european-stonechat-4/",
+      "date"     : "Dec 20, 2023",
+      "image"    : "/images/2023/european-stonechat-4.jpg"
+
+    } ,
+  
+    {
+      "title"    : "European Stonechat 3",
+      "category" : "",
+      "tags"     : "european-stonechat, israel, natanya, and kiryat-hasharon",
+      "url"      : "/flycatchers/european-stonechat-3/",
+      "date"     : "Dec 19, 2023",
+      "image"    : "/images/2023/european-stonechat-3.jpg"
+
+    } ,
+  
+    {
+      "title"    : "European Stonechat 2",
+      "category" : "",
+      "tags"     : "european-stonechat, israel, natanya, and kiryat-hasharon",
+      "url"      : "/flycatchers/european-stonechat-2/",
+      "date"     : "Dec 18, 2023",
+      "image"    : "/images/2023/european-stonechat-2.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Monk Parakeet 9",
+      "category" : "",
+      "tags"     : "monk-parakeet, israel, natanya, and natanya-seafront",
+      "url"      : "/parrots/monk-parakeet-9/",
+      "date"     : "Dec 17, 2023",
+      "image"    : "/images/2023/monk-parakeet-9.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Armenian Gull 9",
+      "category" : "",
+      "tags"     : "armenian-gull, israel, natanya, and galey-yam",
+      "url"      : "/laridae/armenian-gull-9/",
+      "date"     : "Dec 16, 2023",
+      "image"    : "/images/2023/armenian-gull-9.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Armenian Gull 8",
+      "category" : "",
+      "tags"     : "armenian-gull, israel, natanya, and galey-yam",
+      "url"      : "/laridae/armenian-gull-8/",
+      "date"     : "Dec 15, 2023",
+      "image"    : "/images/2023/armenian-gull-8.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Armenian Gull 7",
+      "category" : "",
+      "tags"     : "armenian-gull, israel, natanya, and galey-yam",
+      "url"      : "/laridae/armenian-gull-7/",
+      "date"     : "Dec 14, 2023",
+      "image"    : "/images/2023/armenian-gull-7.jpg"
+
+    } ,
+  
+    {
+      "title"    : "White Throated Kingfisher 5",
+      "category" : "",
+      "tags"     : "white-throated-kingfisher, israel, natanya, and shlulit",
+      "url"      : "/kingfishers/white-throated-kingfisher-5/",
+      "date"     : "Dec 13, 2023",
+      "image"    : "/images/2023/white-throated-kingfisher-5.jpg"
+
+    } ,
+  
+    {
+      "title"    : "White Throated Kingfisher 4",
+      "category" : "",
+      "tags"     : "white-throated-kingfisher, israel, natanya, and shlulit",
+      "url"      : "/kingfishers/white-throated-kingfisher-4/",
+      "date"     : "Dec 12, 2023",
+      "image"    : "/images/2023/white-throated-kingfisher-4.jpg"
+
+    } ,
+  
+    {
+      "title"    : "White Throated Kingfisher 3",
+      "category" : "",
+      "tags"     : "white-throated-kingfisher, israel, natanya, and shlulit",
+      "url"      : "/kingfishers/white-throated-kingfisher-3/",
+      "date"     : "Dec 11, 2023",
+      "image"    : "/images/2023/white-throated-kingfisher-3.jpg"
+
+    } ,
+  
+    {
+      "title"    : "European Stonechat 1",
+      "category" : "",
+      "tags"     : "european-stonechat, israel, natanya, and shlulit",
+      "url"      : "/flycatchers/european-stonechat-1/",
+      "date"     : "Dec 10, 2023",
+      "image"    : "/images/2023/european-stonechat-1.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Graceful Prinia 3",
+      "category" : "",
+      "tags"     : "graceful-prinia, israel, natanya, and shlulit",
+      "url"      : "/cisticolidae/graceful-prinia-3/",
+      "date"     : "Dec 9, 2023",
+      "image"    : "/images/2023/graceful-prinia-3.jpg"
+
+    } ,
+  
+    {
+      "title"    : "White Wagtail 28",
+      "category" : "",
+      "tags"     : "white-wagtail, israel, natanya, and shlulit",
+      "url"      : "/motacillidae/white-wagtail-28/",
+      "date"     : "Dec 8, 2023",
+      "image"    : "/images/2023/white-wagtail-28.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Cattle Egret 6",
+      "category" : "",
+      "tags"     : "cattle-egret, israel, natanya, and shlulit",
+      "url"      : "/herons/cattle-egret-6/",
+      "date"     : "Dec 7, 2023",
+      "image"    : "/images/2023/cattle-egret-6.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Little Egret 5",
+      "category" : "",
+      "tags"     : "little-egret, israel, natanya, and shlulit",
+      "url"      : "/herons/little-egret-5/",
+      "date"     : "Dec 6, 2023",
+      "image"    : "/images/2023/little-egret-5.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Little Egret 4",
+      "category" : "",
+      "tags"     : "little-egret, israel, natanya, and shlulit",
+      "url"      : "/herons/little-egret-4/",
+      "date"     : "Dec 5, 2023",
+      "image"    : "/images/2023/little-egret-4.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Little Egret 3",
+      "category" : "",
+      "tags"     : "little-egret, israel, natanya, and shlulit",
+      "url"      : "/herons/little-egret-3/",
+      "date"     : "Dec 4, 2023",
+      "image"    : "/images/2023/little-egret-3.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Cattle Egret 5",
+      "category" : "",
+      "tags"     : "cattle-egret, israel, natanya, and shlulit",
+      "url"      : "/herons/cattle-egret-5/",
+      "date"     : "Dec 3, 2023",
+      "image"    : "/images/2023/cattle-egret-5.jpg"
+
+    } ,
+  
+    {
+      "title"    : "Eurasian Jay 11",
+      "category" : "",
+      "tags"     : "eurasian-jay, israel, natanya, and shlulit",
+      "url"      : "/corvidae/eurasian-jay-11/",
+      "date"     : "Dec 2, 2023",
+      "image"    : "/images/2023/eurasian-jay-11.jpg"
+
+    } ,
+  
+    {
+      "title"    : "House Sparrow 25",
+      "category" : "",
+      "tags"     : "house-sparrow, israel, natanya, and natanya-center",
+      "url"      : "/sparrows/house-sparrow-25/",
+      "date"     : "Dec 1, 2023",
+      "image"    : "/images/2023/house-sparrow-25.jpg"
+
+    } ,
+  
+    {
       "title"    : "White Pelican 14",
       "category" : "",
       "tags"     : "white-pelican, israel, emek-hefer, and mishmar-hasharon",
