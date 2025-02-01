@@ -4,9 +4,139 @@
       
       
 
+      "title"    : "Greenfinch 16",
+      "category" : "",
+      "tags"     : "greenfinch, israel, natanya, grintal, eat, Зеленушка, and ירקון",
+      "url"      : "/finches/greenfinch-16/",
+      "date"     : "Jan 31, 2025",
+      "image"    : "/images/2025/greenfinch-16.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Palestine Sunbird 10",
+      "category" : "",
+      "tags"     : "palestine-sunbird, israel, natanya, grintal, fly, Палестинская нектарница, and צופית בוהקת",
+      "url"      : "/sunbirds/palestine-sunbird-10/",
+      "date"     : "Jan 31, 2025",
+      "image"    : "/images/2025/palestine-sunbird-10.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "White Spectacled Bulbul 24",
+      "category" : "",
+      "tags"     : "white-spectacled-bulbul, israel, natanya, grintal, Жёлтопоясничный настоящий бюльбюль, and בולבול צהוב־שת",
+      "url"      : "/bulbuls/white-spectacled-bulbul-24/",
+      "date"     : "Jan 31, 2025",
+      "image"    : "/images/2025/white-spectacled-bulbul-24.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Palestine Sunbird 9",
+      "category" : "",
+      "tags"     : "palestine-sunbird, israel, natanya, natanya-center, Палестинская нектарница, and צופית בוהקת",
+      "url"      : "/sunbirds/palestine-sunbird-9/",
+      "date"     : "Jan 31, 2025",
+      "image"    : "/images/2025/palestine-sunbird-9.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "European Stonechat 16",
+      "category" : "",
+      "tags"     : "european-stonechat, israel, natanya, tubruk, Западный черноголовый чекан, and דוחל שחור־גרון",
+      "url"      : "/flycatchers/european-stonechat-16/",
+      "date"     : "Jan 31, 2025",
+      "image"    : "/images/2025/european-stonechat-16.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "House Sparrow 27",
+      "category" : "",
+      "tags"     : "house-sparrow, israel, natanya, natanya-center, Домовый воробей, and דרור הבית",
+      "url"      : "/sparrows/house-sparrow-27/",
+      "date"     : "Jan 30, 2025",
+      "image"    : "/images/2025/house-sparrow-27.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Graceful Prinia 12",
+      "category" : "",
+      "tags"     : "graceful-prinia, israel, natanya, grintal, cry, Изящная приния, and פשוש",
+      "url"      : "/cisticolidae/graceful-prinia-12/",
+      "date"     : "Jan 29, 2025",
+      "image"    : "/images/2025/graceful-prinia-12.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Armenian Gull 11",
+      "category" : "",
+      "tags"     : "armenian-gull, israel, natanya, natanya-seafront, Армянская чайка, and שחף ארמני",
+      "url"      : "/laridae/armenian-gull-11/",
+      "date"     : "Jan 28, 2025",
+      "image"    : "/images/2025/armenian-gull-11.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Eurasian Hoopoe 15",
+      "category" : "",
+      "tags"     : "eurasian-hoopoe, israel, natanya, natanya-center, Удод, and דוכיפת מצויה",
+      "url"      : "/hoopoes/eurasian-hoopoe-15/",
+      "date"     : "Jan 27, 2025",
+      "image"    : "/images/2025/eurasian-hoopoe-15.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Laughing Dove 15",
+      "category" : "",
+      "tags"     : "laughing-dove, israel, natanya, natanya-center, Малая горлица, and צוצלת",
+      "url"      : "/pigeons/laughing-dove-15/",
+      "date"     : "Jan 26, 2025",
+      "image"    : "/images/2025/laughing-dove-15.jpg"
+
+    } ,
+  
+    {
+      
+      
+
       "title"    : "European Stonechat 15",
       "category" : "",
-      "tags"     : "european-stonechat, israel, natanya, natanya-center, Западный черноголовый чекан, and דוחל שחור־גרון",
+      "tags"     : "european-stonechat, israel, natanya, grintal, Западный черноголовый чекан, and דוחל שחור־גרון",
       "url"      : "/flycatchers/european-stonechat-15/",
       "date"     : "Jan 25, 2025",
       "image"    : "/images/2025/european-stonechat-15.jpg"
@@ -32,7 +162,7 @@
 
       "title"    : "European Stonechat 14",
       "category" : "",
-      "tags"     : "european-stonechat, israel, natanya, natanya-center, Западный черноголовый чекан, and דוחל שחור־גרון",
+      "tags"     : "european-stonechat, israel, natanya, grintal, Западный черноголовый чекан, and דוחל שחור־גרון",
       "url"      : "/flycatchers/european-stonechat-14/",
       "date"     : "Jan 23, 2025",
       "image"    : "/images/2025/european-stonechat-14.jpg"
@@ -1631,7 +1761,7 @@
 
       "title"    : "Hooded Crow 54",
       "category" : "",
-      "tags"     : "hooded-crow, israel, natanya, grintal, neve-oz, eat, Серая ворона, and עורב אפור",
+      "tags"     : "hooded-crow, israel, natanya, neve-oz, eat, Серая ворона, and עורב אפור",
       "url"      : "/corvidae/hooded-crow-54/",
       "date"     : "Jun 4, 2024",
       "image"    : "/images/2024/hooded-crow-54.jpg"
@@ -2567,7 +2697,7 @@
 
       "title"    : "Hooded Crow 51",
       "category" : "",
-      "tags"     : "hooded-crow, israel, natanya, natanya-seafront, portrait, Серая ворона, and עורב אפור",
+      "tags"     : "hooded-crow, israel, natanya, natanya-center, portrait, Серая ворона, and עורב אפור",
       "url"      : "/corvidae/hooded-crow-51/",
       "date"     : "Apr 7, 2024",
       "image"    : "/images/2024/hooded-crow-51.jpg"
@@ -3386,7 +3516,7 @@
 
       "title"    : "Monk Parakeet 9",
       "category" : "",
-      "tags"     : "monk-parakeet, israel, natanya, natanya-seafront, Попугай-монах, and תוכי נזירי",
+      "tags"     : "monk-parakeet, israel, natanya, natanya-center, Попугай-монах, and תוכי נזירי",
       "url"      : "/parrots/monk-parakeet-9/",
       "date"     : "Dec 17, 2023",
       "image"    : "/images/2023/monk-parakeet-9.jpg"
@@ -4556,7 +4686,7 @@
 
       "title"    : "Common Myna 21",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-seafront, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-21/",
       "date"     : "Apr 25, 2023",
       "image"    : "/images/2023/common-myna-21.jpg"
@@ -4751,7 +4881,7 @@
 
       "title"    : "Hooded Crow 46",
       "category" : "",
-      "tags"     : "hooded-crow, israel, natanya, natanya-seafront, wings, Серая ворона, and עורב אפור",
+      "tags"     : "hooded-crow, israel, natanya, natanya-center, wings, Серая ворона, and עורב אפור",
       "url"      : "/corvidae/hooded-crow-46/",
       "date"     : "Apr 10, 2023",
       "image"    : "/images/2023/hooded-crow-46.jpg"
@@ -4764,7 +4894,7 @@
 
       "title"    : "Hooded Crow 45",
       "category" : "",
-      "tags"     : "hooded-crow, israel, natanya, natanya-seafront, build, Серая ворона, and עורב אפור",
+      "tags"     : "hooded-crow, israel, natanya, natanya-center, build, Серая ворона, and עורב אפור",
       "url"      : "/corvidae/hooded-crow-45/",
       "date"     : "Apr 9, 2023",
       "image"    : "/images/2023/hooded-crow-45.jpg"
@@ -4777,7 +4907,7 @@
 
       "title"    : "Common Myna 19",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-seafront, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-19/",
       "date"     : "Apr 8, 2023",
       "image"    : "/images/2023/common-myna-19.jpg"
@@ -4790,7 +4920,7 @@
 
       "title"    : "Common Myna 18",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-seafront, drink, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, drink, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-18/",
       "date"     : "Apr 7, 2023",
       "image"    : "/images/2023/common-myna-18.jpg"
@@ -4803,7 +4933,7 @@
 
       "title"    : "Laughing Dove 10",
       "category" : "",
-      "tags"     : "laughing-dove, israel, natanya, natanya-seafront, Малая горлица, and צוצלת",
+      "tags"     : "laughing-dove, israel, natanya, natanya-center, Малая горлица, and צוצלת",
       "url"      : "/pigeons/laughing-dove-10/",
       "date"     : "Apr 6, 2023",
       "image"    : "/images/2023/laughing-dove-10.jpg"
@@ -4816,7 +4946,7 @@
 
       "title"    : "House Sparrow 22",
       "category" : "",
-      "tags"     : "house-sparrow, israel, natanya, natanya-seafront, Домовый воробей, and דרור הבית",
+      "tags"     : "house-sparrow, israel, natanya, natanya-center, Домовый воробей, and דרור הבית",
       "url"      : "/sparrows/house-sparrow-22/",
       "date"     : "Apr 5, 2023",
       "image"    : "/images/2023/house-sparrow-22.jpg"
@@ -5661,7 +5791,7 @@
 
       "title"    : "Monk Parakeet 1",
       "category" : "",
-      "tags"     : "monk-parakeet, israel, natanya, natanya-seafront, eat, Попугай-монах, and תוכי נזירי",
+      "tags"     : "monk-parakeet, israel, natanya, natanya-center, eat, Попугай-монах, and תוכי נזירי",
       "url"      : "/parrots/monk-parakeet-1/",
       "date"     : "Nov 5, 2022",
       "image"    : "/images/2022/monk-parakeet-1.jpg"
@@ -5869,7 +5999,7 @@
 
       "title"    : "Common Myna 11",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-center, couple, cry, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, cry, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-11/",
       "date"     : "Jun 24, 2022",
       "image"    : "/images/2022/common-myna-11.jpg"
@@ -6038,7 +6168,7 @@
 
       "title"    : "Common Myna 7",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-seafront, baby, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, baby, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-7/",
       "date"     : "Jun 11, 2022",
       "image"    : "/images/2022/common-myna-7.jpg"
@@ -6051,7 +6181,7 @@
 
       "title"    : "Common Myna 6",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-seafront, couple, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, couple, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-6/",
       "date"     : "Jun 10, 2022",
       "image"    : "/images/2022/common-myna-6.jpg"
@@ -6064,7 +6194,7 @@
 
       "title"    : "Common Myna 5",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-seafront, couple, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, couple, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-5/",
       "date"     : "Jun 9, 2022",
       "image"    : "/images/2022/common-myna-5.jpg"
@@ -6090,7 +6220,7 @@
 
       "title"    : "Common Myna 3",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-seafront, portrait, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, portrait, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-3/",
       "date"     : "Jun 7, 2022",
       "image"    : "/images/2022/common-myna-3.jpg"
@@ -6103,7 +6233,7 @@
 
       "title"    : "Hooded Crow 37",
       "category" : "",
-      "tags"     : "hooded-crow, israel, natanya, natanya-seafront, Серая ворона, and עורב אפור",
+      "tags"     : "hooded-crow, israel, natanya, natanya-center, Серая ворона, and עורב אפור",
       "url"      : "/corvidae/hooded-crow-37/",
       "date"     : "Jun 6, 2022",
       "image"    : "/images/2022/hooded-crow-37.jpg"
@@ -6168,7 +6298,7 @@
 
       "title"    : "Common Myna 1",
       "category" : "",
-      "tags"     : "common-myna, israel, natanya, natanya-seafront, Обыкновенная майна, and מיינה מצויה",
+      "tags"     : "common-myna, israel, natanya, natanya-center, Обыкновенная майна, and מיינה מצויה",
       "url"      : "/starlings/common-myna-1/",
       "date"     : "Jun 1, 2022",
       "image"    : "/images/2022/common-myna-1.jpg"
