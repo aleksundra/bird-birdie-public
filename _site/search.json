@@ -4,6 +4,71 @@
       
       
 
+      "title"    : "Common Chiffchaff 1",
+      "category" : "",
+      "tags"     : "common-chiffchaff, natanya, israel, grintal, Пеночка-теньковка, and עלווית חורף",
+      "url"      : "/leaf-warblers/common-chiffchaff-1/",
+      "date"     : "Feb 2, 2025",
+      "image"    : "/images/2025/common-chiffchaff-1.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Sardinian Warbler 3",
+      "category" : "",
+      "tags"     : "sardinian-warbler, israel, natanya, grintal, Средиземноморская славка, and סבכי שחור־ראש",
+      "url"      : "/sylvia-warblers/sardinian-warbler-3/",
+      "date"     : "Feb 1, 2025",
+      "image"    : "/images/2025/sardinian-warbler-3.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "White Wagtail 33",
+      "category" : "",
+      "tags"     : "white-wagtail, israel, natanya, grintal, Белая трясогузка, and נחליאלי לבן",
+      "url"      : "/motacillidae/white-wagtail-33/",
+      "date"     : "Feb 1, 2025",
+      "image"    : "/images/2025/white-wagtail-33.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Palestine Sunbird 11",
+      "category" : "",
+      "tags"     : "palestine-sunbird, israel, natanya, grintal, Палестинская нектарница, and צופית בוהקת",
+      "url"      : "/sunbirds/palestine-sunbird-11/",
+      "date"     : "Feb 1, 2025",
+      "image"    : "/images/2025/palestine-sunbird-11.jpg"
+
+    } ,
+  
+    {
+      
+      
+
+      "title"    : "Greenfinch 17",
+      "category" : "",
+      "tags"     : "greenfinch, israel, natanya, grintal, Зеленушка, and ירקון",
+      "url"      : "/finches/greenfinch-17/",
+      "date"     : "Feb 1, 2025",
+      "image"    : "/images/2025/greenfinch-17.jpg"
+
+    } ,
+  
+    {
+      
+      
+
       "title"    : "Greenfinch 16",
       "category" : "",
       "tags"     : "greenfinch, israel, natanya, grintal, eat, Зеленушка, and ירקון",
@@ -1021,7 +1086,7 @@
       "title"    : "Sardinian Warbler 2",
       "category" : "",
       "tags"     : "sardinian-warbler, israel, natanya, shlulit, autumn-course-2024, Средиземноморская славка, and סבכי שחור־ראש",
-      "url"      : "/sylviidae/sardinian-warbler-2/",
+      "url"      : "/sylvia-warblers/sardinian-warbler-2/",
       "date"     : "Nov 22, 2024",
       "image"    : "/images/2024/sardinian-warbler-2.jpg"
 
@@ -1957,7 +2022,7 @@
       "title"    : "Eurasian Blackcap 2",
       "category" : "",
       "tags"     : "eurasian-blackcap, natanya, israel, galey-yam, Черноголовая славка, and סבכי שחור־כיפה",
-      "url"      : "/sylviidae/eurasian-blackcap-2/",
+      "url"      : "/sylvia-warblers/eurasian-blackcap-2/",
       "date"     : "May 7, 2024",
       "image"    : "/images/2024/eurasian-blackcap-2.jpg"
 
@@ -1970,7 +2035,7 @@
       "title"    : "Eurasian Blackcap 1",
       "category" : "",
       "tags"     : "eurasian-blackcap, natanya, israel, galey-yam, Черноголовая славка, and סבכי שחור־כיפה",
-      "url"      : "/sylviidae/eurasian-blackcap-1/",
+      "url"      : "/sylvia-warblers/eurasian-blackcap-1/",
       "date"     : "May 6, 2024",
       "image"    : "/images/2024/eurasian-blackcap-1.jpg"
 
@@ -2971,7 +3036,7 @@
       "title"    : "Lesser Whitethroat 1",
       "category" : "",
       "tags"     : "lesser-whitethroat, natanya, israel, shlulit, spring-course-2024, Славка-завирушка, and סבכי טוחנים",
-      "url"      : "/sylviidae/lesser-whitethroat-1/",
+      "url"      : "/sylvia-warblers/lesser-whitethroat-1/",
       "date"     : "Mar 14, 2024",
       "image"    : "/images/2024/lesser-whitethroat-1.jpg"
 
@@ -4232,7 +4297,7 @@
       "title"    : "Willow Warbler 3",
       "category" : "",
       "tags"     : "willow-warbler, natanya, israel, einshtein-park, Пеночка-весничка, and עלווית אפורה",
-      "url"      : "/sylviidae/willow-warbler-3/",
+      "url"      : "/leaf-warblers/willow-warbler-3/",
       "date"     : "Oct 1, 2023",
       "image"    : "/images/2023/willow-warbler-3.jpg"
 
@@ -5012,7 +5077,7 @@
       "title"    : "Sardinian Warbler 1",
       "category" : "",
       "tags"     : "sardinian-warbler, israel, natanya, ir-yamim, Средиземноморская славка, and סבכי שחור־ראש",
-      "url"      : "/sylviidae/sardinian-warbler-1/",
+      "url"      : "/sylvia-warblers/sardinian-warbler-1/",
       "date"     : "Mar 25, 2023",
       "image"    : "/images/2023/sardinian-warbler-1.jpg"
 
@@ -11096,7 +11161,7 @@
       "title"    : "Willow Warbler 2",
       "category" : "",
       "tags"     : "willow-warbler, kostroma, russia, kostroma-2015, lunovo, Пеночка-весничка, and עלווית אפורה",
-      "url"      : "/sylviidae/willow-warbler-2/",
+      "url"      : "/leaf-warblers/willow-warbler-2/",
       "date"     : "Aug 22, 2015",
       "image"    : "/images/2015/willow-warbler-2.jpg"
 
@@ -11148,7 +11213,7 @@
       "title"    : "Willow Warbler 1",
       "category" : "",
       "tags"     : "willow-warbler, kostroma, russia, kostroma-2015, lunovo, Пеночка-весничка, and עלווית אפורה",
-      "url"      : "/sylviidae/willow-warbler-1/",
+      "url"      : "/leaf-warblers/willow-warbler-1/",
       "date"     : "Aug 22, 2015",
       "image"    : "/images/2015/willow-warbler-1.jpg"
 
@@ -12409,7 +12474,7 @@
       "title"    : "Wood Warbler 1",
       "category" : "",
       "tags"     : "wood-warbler, moscow, vorobiovy, russia, Пеночка-трещотка, and עלווית ירוקה",
-      "url"      : "/sylviidae/wood-warbler-1/",
+      "url"      : "/leaf-warblers/wood-warbler-1/",
       "date"     : "May 7, 2015",
       "image"    : "/images/2015/wood-warbler-1.jpg"
 
