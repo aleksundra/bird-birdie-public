@@ -167,3 +167,22 @@ $(document).ready(function() {
   });
 
 });
+
+
+  /* =======================
+  // Toggle switch for the life list
+  ======================= */
+function toggleList() {
+
+  var checkBox = document.getElementById("toggle");
+  var chrono = document.getElementById("chr");
+  var abc = document.getElementById("abc");
+
+  if (checkBox.checked == true){
+    chrono.style.display = "none";
+    abc.style.display = "block";
+  } else {
+    chrono.style.display = "block";
+    abc.style.display = "none";
+  }
+}
