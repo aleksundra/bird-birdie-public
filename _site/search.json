@@ -348,8 +348,8 @@
       "title"    : "Common Sandpiper",
       "tags"     : "",
       "url"      : "/scolopacidae/common-sandpiper",
-      "date"     : "Перевозчик | ביצנית לבנת-בטן",
-      "category" : "ביצנית לבנת-בטן",
+      "date"     : "Перевозчик | ביצנית לבנת־בטן",
+      "category" : "ביצנית לבנת־בטן",
       "image"    : "/images/2025/common-sandpiper-1.jpg",
       "content"  : "Перевозчик"
     } ,
@@ -682,6 +682,17 @@
       "category" : "ירגזי מצוי",
       "image"    : "/images/2015/great-tit-1.jpg",
       "content"  : "Большая синица"
+    } ,
+  
+
+    {
+      "title"    : "Greater Flamingo",
+      "tags"     : "",
+      "url"      : "/flamingos/greater-flamingo",
+      "date"     : "Розовый фламинго | פלמינגו מצוי",
+      "category" : "פלמינגו מצוי",
+      "image"    : "/images/2025/greater-flamingo-1.jpg",
+      "content"  : "Розовый фламинго"
     } ,
   
 
@@ -1030,8 +1041,8 @@
       "title"    : "Redshank",
       "tags"     : "",
       "url"      : "/scolopacidae/redshank",
-      "date"     : "Травник | ביצנית לבנת-כנף",
-      "category" : "ביצנית לבנת-כנף",
+      "date"     : "Травник | ביצנית לבנת־כנף",
+      "category" : "ביצנית לבנת־כנף",
       "image"    : "/images/2025/redshank-1.jpg",
       "content"  : "Травник"
     } ,
@@ -1096,8 +1107,8 @@
       "title"    : "Sandwich Tern",
       "tags"     : "",
       "url"      : "/laridae/sandwich-tern",
-      "date"     : "Пестроносая крачка | שחפית שחורת-מקור",
-      "category" : "שחפית שחורת-מקור",
+      "date"     : "Пестроносая крачка | שחפית שחורת־מקור",
+      "category" : "שחפית שחורת־מקור",
       "image"    : "/images/2025/sandwich-tern-1.jpg",
       "content"  : "Пестроносая крачка"
     } ,
@@ -1364,6 +1375,17 @@
       "category" : "עלווית ירוקה",
       "image"    : "/images/2015/wood-warbler-1.jpg",
       "content"  : "Пеночка-трещотка"
+    } ,
+  
+
+    {
+      "title"    : "Woodchat Shrike",
+      "tags"     : "",
+      "url"      : "/shrikes/woodchat-shrike",
+      "date"     : "Красноголовый сорокопут | חנקן אדום־ראש",
+      "category" : "חנקן אדום־ראש",
+      "image"    : "/images/2025/woodchat-shrike-1.jpg",
+      "content"  : "Красноголовый сорокопут"
     } ,
   
 
