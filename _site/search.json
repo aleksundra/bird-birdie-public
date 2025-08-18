@@ -719,6 +719,17 @@
   
 
     {
+      "title"    : "Green Sandpiper",
+      "tags"     : "",
+      "url"      : "/scolopacidae/green-sandpiper",
+      "date"     : "Черныш | ביצנית שחורת־כנף",
+      "category" : "ביצנית שחורת־כנף",
+      "image"    : "/images/2025/green-sandpiper-1.jpg",
+      "content"  : "Черныш"
+    } ,
+  
+
+    {
       "title"    : "Greenfinch",
       "tags"     : "",
       "url"      : "/finches/greenfinch",
@@ -1430,6 +1441,17 @@
       "category" : "גיבתון צהוב",
       "image"    : "/images/2015/yellowhammer-1.jpg",
       "content"  : "Обыкновенная овсянка"
+    } ,
+  
+
+    {
+      "title"    : "Zitting Cisticola",
+      "tags"     : "",
+      "url"      : "/cisticolidae/zitting-cisticola",
+      "date"     : "Веерохвостая цистикола | תפר",
+      "category" : "תפר",
+      "image"    : "/images/2025/zitting-cisticola-1.jpg",
+      "content"  : "Веерохвостая цистикола"
     } 
   
 ]
